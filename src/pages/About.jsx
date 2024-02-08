@@ -26,7 +26,7 @@ const About = () => {
 
         <div className='mt-16 flex flex-wrap gap-12'>
           {skills.map((skill) => (
-            <div className='block-container w-20 h-20'>
+            <div className='block-container w-20 h-20' key={skill.name}>
               <div className='btn-back rounded-xl' />
               <div className='btn-front rounded-xl flex justify-center
               items-center'>
@@ -45,8 +45,8 @@ const About = () => {
       <div className='"py-16'>
             <h3 className='subhead-text'>Work Experience</h3>
             <div className='mt-5 flex flex-col gap-3 text-slate-500'>
-            <p> I have work at these places over the years
-              and here is the rest of my expereince that is also listed on my resume:
+            <p> Here are some of the places I have worked at or have experience in,
+              hoping to add more companies to the list:
             </p>
             </div>
 
