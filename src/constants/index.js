@@ -145,10 +145,9 @@ export const experiences = [
         iconBg: "#a2d2ff",
         date: "May 2021 - Aug 2022",
         points: [
-            "Developing and maintaining web applications using React.js and other related technologies.",
-            "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
+            "Performed analysis of bank statements for companies including assessments of liquidity, cash deficits/surpluses, and accounts receivables.",
             "Implementing responsive design and ensuring cross-browser compatibility.",
-            "Participating in code reviews and providing constructive feedback to other developers.",
+            "Technical training and research in asset management, investment, and commercial banking conducted.",
         ],
     },
 ];
