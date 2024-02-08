@@ -15,7 +15,10 @@ const Projects = () => {
     </h1>
 
     <div className='mt-5 flex flex-col gap-3 text-slate-500'>
-      <p>Explain your projects
+      <p> In these projects below I contributed by designing and developing scalable web applications,
+        enhancing code efficiency for optimal performance,
+        and offering technical guidance in agile settings. Leveraging my hands-on experience and adaptability for various tech stack,
+        I persistently seek to innovate and deliver meaningful results.
       </p>
     </div>
 

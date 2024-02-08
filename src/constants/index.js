@@ -175,14 +175,14 @@ export const projects = [
         iconUrl: pricewise,
         theme: 'btn-back-red',
         name: 'Catalist',
-        description: 'Developed a web application that tracks and notifies users of price changes for products on Amazon, helping users find the best deals.',
+        description: 'Productivity application allowing user to journal and create to-do lists with an emphasis on an engaging user experience.',
         link: 'https://gitlab.com/globetrodders/module3-project-gamma',
     },
     {
         iconUrl: threads,
         theme: 'btn-back-green',
         name: 'Conference GO',
-        description: 'Created a full-stack replica of the popular discussion platform "Threads," enabling users to post and engage in threaded conversations.',
+        description: 'Full-stack web application for event organization.',
         link: 'https://gitlab.com/hrahman3/conference-go',
     },
     {
@@ -203,7 +203,7 @@ export const projects = [
         iconUrl: estate,
         theme: 'btn-back-black',
         name: 'Tracker',
-        description: 'Developed a web application for real estate listings, facilitating property searches and connecting buyers with sellers.',
+        description: 'Task manager Django user application.',
         link: 'https://gitlab.com/hrahman3/tracker',
     },
     // {
